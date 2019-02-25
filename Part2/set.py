@@ -43,3 +43,9 @@ print(s)
 s.discard(30)
 s.add(50)
 print(s)
+
+# Copying Set
+s2 = set([10,20,30])
+print(s2)
+s3 = s2.copy()
+print(s3)
