@@ -49,3 +49,28 @@ s2 = set([10,20,30])
 print(s2)
 s3 = s2.copy()
 print(s3)
+
+# Slicing Set
+# Using intersection()
+s4 = set([1,2,3,4,5])
+print('set s4 : ', s4)
+s5 = set([3,5,7])
+print('set s5 : ', s5)
+s6 = s4.intersection(s5)
+print('intersection s4 & s5: ', s6)
+
+# The different between set
+s7 = s4.difference(s5)
+print('the difference s4 & s5: ', s7)
+
+# Combine betweeen two lists
+s8 = s4.union(s5)
+print('combining s4 and s5 : ', s8)
+
+# Constant set, cannot be added or modified
+fs = frozenset([10,20,30])
+for i in fs:
+    print(i)
+'''
+frozen will make a set cannot be deleted, added or modified
+'''
