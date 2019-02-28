@@ -17,4 +17,8 @@ s1 = 'INFORMATIKA'
 print(s1.find('I', 1, 10))
 
 # Get the character from the index
+print(s[0])
 print(s[1])
+print(s[2])
+print(s[3])
+print(s[-1]) # obtain the character from the right)
