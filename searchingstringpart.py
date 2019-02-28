@@ -15,3 +15,6 @@ end is for the index end range for searching
 
 s1 = 'INFORMATIKA'
 print(s1.find('I', 1, 10))
+
+# Get the character from the index
+print(s[1])
