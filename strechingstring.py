@@ -10,9 +10,24 @@ data = [
 ]
 
 for line in data:
-    print('%s %s %s'
-        % ( line[0].ljust(5),
-            line[1].ljust(15),
-            str(line[2]).ljust(9),
-            str(line[3]).ljust(30))
-    )
+    print('%s %s %s %s' %
+            (line[0].ljust(5),
+             line[1].ljust(15),
+             str(line[2]).ljust(9),
+             str(line[3]).ljust(30))
+            )
+
+# Ljust / left justify
+print('Python'.ljust(10))
+
+# using a character
+print('Python'.ljust(10, '$'))
+
+# Rjust / right justify
+print('Python'.rjust(10))
+
+# using a character
+print('Python'.rjust(10, '$'))
+
+# Center
+print('Python'.center(10))
