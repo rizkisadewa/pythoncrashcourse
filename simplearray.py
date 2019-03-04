@@ -64,12 +64,51 @@ pop() is like we pick the last element. x = a.pop() means we pick the last eleme
 
 # sorting element of array
 def sortarray(a):
-    for i in range(0, len(a)-2):
+    for i in range(0, len(a)):
         for j in range(len(a)-1, i, -1):
             if a[j] < a[j-1]:
                 # switch array element
                 a[j], a[j-1] = a[j-1], a[j]
 
+'''
+the above method will compare the last element value with lower index
+'''
+
 # implement of the sortarray method
 sortarray(a)
 print(a)
+
+# reversing the array element
+b = array.array('u', ['n','o','h','t','y','P'])
+for i in b:
+    print(i, ' ', end='')
+
+print() # \n
+
+b.reverse() # reversing the array
+for i in b:
+    print(i, ' ', end='')
+
+print() # \n
+
+# Array constant
+BULAN = ('January', 'February','March','April','May','June','July','August','September','October','November','December')
+print(BULAN[0])
+
+# Array two dimension
+twoD = [
+    ['P001','Pencil'],
+    ['P002','Book'],
+    ['P003','Bag']
+]
+
+print(twoD[0][0])
+print(twoD[0][1])
+print(twoD[1][0])
+print(twoD[1][1])
+print(twoD[2][0])
+print(twoD[2][1])
+
+'''
+array in python is only can handle for one dimension, however we can use list to declare the array with two dimension or more dimension
+'''
