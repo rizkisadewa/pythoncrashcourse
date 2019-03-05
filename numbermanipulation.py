@@ -69,3 +69,14 @@ print(type(f))
 x = 123
 print(x)
 print(type(x))
+
+s1 = str(x)
+print(s1)
+print(type(s1))
+
+y = 123.45
+print(y)
+print(type(y))
+s2 = str(y)
+print(s2)
+print(type(s2))
