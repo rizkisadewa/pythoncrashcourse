@@ -1,9 +1,9 @@
-# Squaring Number
+# Rank Number
 
-# count 2 square 5 with ** operator
+# count 2 rank 5 with ** operator
 print(2**5)
 
-# count 2 square 5 with pow()
+# count 2 rank 5 with pow()
 print(pow(2,5))
 
 '''
