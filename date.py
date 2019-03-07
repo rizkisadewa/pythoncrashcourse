@@ -3,8 +3,10 @@ import time
 print(time.time())
 print(time.localtime(time.time()))
 
+print()
+
 # show the date and time with format
-print(time.strftime('%A, %d %B %Y %H:%M:%S'), (time.localtime(time.time())))
+print(time.strftime('%A, %d %B %Y %H:%M:%S', time.localtime(time.time())))
 
 '''
 Format=>Description=>Value
@@ -26,3 +28,22 @@ X=>Full represent of Time=> depend on local
 Y=>year number in one century => 0..99
 Z=>time local zone=>empty if not specified
 '''
+
+# Another example
+print(time.strftime('%a, %d/%m/%Y %H:%M:%S', time.localtime(time.time())))
+
+# datetime
+import datetime
+date = datetime.date.today()
+print(date)
+print(date.day)
+print(date.month)
+print(date.year)
+
+now = datetime.datetime.now()
+print(now)
+print(now.hour)
+print(now.minute)
+print(now.second)
+print(now.microsecond)
+print(type(now))
