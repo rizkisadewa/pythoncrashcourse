@@ -6,3 +6,4 @@ The notes for the Python Crash Course, all the basic in here.
 2. Basic of listing, dictionary
 3. String Manipulation
 4. Date, Time Manipulation
+5. Create Function 
