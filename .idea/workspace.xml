@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classobjectarithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methodstatic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +22,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classobjectarithmetic.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastatic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/methodstatic.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="328">
-              <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -56,6 +74,8 @@
         <option value="$PROJECT_DIR$/abstractclass.py" />
         <option value="$PROJECT_DIR$/comparingobject.py" />
         <option value="$PROJECT_DIR$/classobjectarithmetic.py" />
+        <option value="$PROJECT_DIR$/datastatic.py" />
+        <option value="$PROJECT_DIR$/methodstatic.py" />
       </list>
     </option>
   </component>
@@ -141,7 +161,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552690620106</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Class Object with Arithmetic">
+      <created>1552691572763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552691572763</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Data Static">
+      <created>1552692495867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552692495867</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -214,7 +248,9 @@
     <MESSAGE value="Add property to access the method" />
     <MESSAGE value="Add abstract method" />
     <MESSAGE value="comparing an object" />
-    <option name="LAST_COMMIT_MESSAGE" value="comparing an object" />
+    <MESSAGE value="Class Object with Arithmetic" />
+    <MESSAGE value="Data Static" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Static" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/privatemethod.py">
@@ -247,8 +283,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classobjectarithmetic.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastatic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methodstatic.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
-          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
