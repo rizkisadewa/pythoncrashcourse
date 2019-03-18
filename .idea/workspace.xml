@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/copyingfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part5/data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part5/example.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movingfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/copyingfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+            <state relative-caret-position="209">
+              <caret line="31" column="82" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/movingfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -83,6 +94,7 @@
         <option value="$PROJECT_DIR$/zippingfile.py" />
         <option value="$PROJECT_DIR$/readfileinzip.py" />
         <option value="$PROJECT_DIR$/copyingfile.py" />
+        <option value="$PROJECT_DIR$/movingfile.py" />
       </list>
     </option>
   </component>
@@ -223,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552949922121</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="copying the file">
+      <created>1552951978914</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1552951978914</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -304,7 +323,8 @@
     <MESSAGE value="Obtain File Size" />
     <MESSAGE value="Zipping File" />
     <MESSAGE value="Read the zip file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read the zip file" />
+    <MESSAGE value="copying the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="copying the file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/privatemethod.py" />
@@ -365,8 +385,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/copyingfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        <state relative-caret-position="209">
+          <caret line="31" column="82" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movingfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
         </state>
       </provider>
     </entry>
