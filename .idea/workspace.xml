@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="" />
+    <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Part5/data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part5/example.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movingfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +14,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/obtainfilesize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zippingfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="85" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readfileinzip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="88" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/copyingfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="31" column="82" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/movingfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,14 +87,21 @@
         <option value="$PROJECT_DIR$/classobjectarithmetic.py" />
         <option value="$PROJECT_DIR$/datastatic.py" />
         <option value="$PROJECT_DIR$/methodstatic.py" />
+        <option value="$PROJECT_DIR$/checkingfileanddir.py" />
+        <option value="$PROJECT_DIR$/showingsubdirectory.py" />
+        <option value="$PROJECT_DIR$/showingcertainfile.py" />
+        <option value="$PROJECT_DIR$/obtainfilesize.py" />
+        <option value="$PROJECT_DIR$/zippingfile.py" />
+        <option value="$PROJECT_DIR$/readfileinzip.py" />
+        <option value="$PROJECT_DIR$/copyingfile.py" />
+        <option value="$PROJECT_DIR$/movingfile.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,7 +123,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,13 +193,63 @@
       <option name="project" value="LOCAL" />
       <updated>1552692495867</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Checking file and directory existance">
+      <created>1552863345804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552863345805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Showing The File and Directory">
+      <created>1552864395080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552864395080</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Showing certain extension file">
+      <created>1552864732493</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552864732493</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Obtain File Size">
+      <created>1552866977296</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1552866977296</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Zipping File">
+      <created>1552949681033</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1552949681033</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Read the zip file">
+      <created>1552949922121</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1552949922121</updated>
+    </task>
+    <task id="LOCAL-00013" summary="copying the file">
+      <created>1552951978914</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1552951978914</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,55 +317,83 @@
     <MESSAGE value="comparing an object" />
     <MESSAGE value="Class Object with Arithmetic" />
     <MESSAGE value="Data Static" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Static" />
+    <MESSAGE value="Checking file and directory existance" />
+    <MESSAGE value="Showing The File and Directory" />
+    <MESSAGE value="Showing certain extension file" />
+    <MESSAGE value="Obtain File Size" />
+    <MESSAGE value="Zipping File" />
+    <MESSAGE value="Read the zip file" />
+    <MESSAGE value="copying the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="copying the file" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/privatemethod.py">
+    <entry file="file://$PROJECT_DIR$/privatemethod.py" />
+    <entry file="file://$PROJECT_DIR$/property.py" />
+    <entry file="file://$PROJECT_DIR$/abstractclass.py" />
+    <entry file="file://$PROJECT_DIR$/comparingobject.py" />
+    <entry file="file://$PROJECT_DIR$/classobjectarithmetic.py" />
+    <entry file="file://$PROJECT_DIR$/datastatic.py" />
+    <entry file="file://$PROJECT_DIR$/methodstatic.py" />
+    <entry file="file://$PROJECT_DIR$/Part3/string/combiningstring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/property.py">
+    <entry file="file://$PROJECT_DIR$/checkingfileanddir.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        <state relative-caret-position="170">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abstractclass.py">
+    <entry file="file://$PROJECT_DIR$/showingsubdirectory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comparingobject.py">
+    <entry file="file://$PROJECT_DIR$/showingcertainfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classobjectarithmetic.py">
+    <entry file="file://$PROJECT_DIR$/zippingfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="11" column="85" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastatic.py">
+    <entry file="file://$PROJECT_DIR$/obtainfilesize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/methodstatic.py">
+    <entry file="file://$PROJECT_DIR$/readfileinzip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="3" column="88" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copyingfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="31" column="82" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movingfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
         </state>
       </provider>
     </entry>
