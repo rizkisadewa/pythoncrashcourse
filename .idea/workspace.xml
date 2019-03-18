@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readfileinzip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copyingfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readfileinzip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="88" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/copyingfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -74,6 +82,7 @@
         <option value="$PROJECT_DIR$/obtainfilesize.py" />
         <option value="$PROJECT_DIR$/zippingfile.py" />
         <option value="$PROJECT_DIR$/readfileinzip.py" />
+        <option value="$PROJECT_DIR$/copyingfile.py" />
       </list>
     </option>
   </component>
@@ -207,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552949681033</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Read the zip file">
+      <created>1552949922121</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1552949922121</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -287,7 +303,8 @@
     <MESSAGE value="Showing certain extension file" />
     <MESSAGE value="Obtain File Size" />
     <MESSAGE value="Zipping File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zipping File" />
+    <MESSAGE value="Read the zip file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read the zip file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/privatemethod.py" />
@@ -341,8 +358,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readfileinzip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="3" column="88" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copyingfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
         </state>
       </provider>
     </entry>
