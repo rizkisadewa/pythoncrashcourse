@@ -1,5 +1,0 @@
-Python
-Golang
-Java 
-C++
-Javascript
