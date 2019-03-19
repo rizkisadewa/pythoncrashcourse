@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/deletingfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renamingfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makingdirectory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +16,18 @@
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deletingfile.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/renamingfile.py">
+        <entry file="file://$PROJECT_DIR$/makingdirectory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="294">
+              <caret line="18" column="101" selection-start-line="18" selection-start-column="101" selection-end-line="18" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -63,8 +67,10 @@
         <option value="$PROJECT_DIR$/readfileinzip.py" />
         <option value="$PROJECT_DIR$/copyingfile.py" />
         <option value="$PROJECT_DIR$/movingfile.py" />
-        <option value="$PROJECT_DIR$/deletingfile.py" />
         <option value="$PROJECT_DIR$/renamingfile.py" />
+        <option value="$PROJECT_DIR$/deletingfile.py" />
+        <option value="$PROJECT_DIR$/makingfile.py" />
+        <option value="$PROJECT_DIR$/makingdirectory.py" />
       </list>
     </option>
   </component>
@@ -96,6 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -212,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552951978914</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Rename file">
+      <created>1553036369595</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553036369595</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Removing file">
+      <created>1553036614542</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553036614542</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,7 +336,9 @@
     <MESSAGE value="Zipping File" />
     <MESSAGE value="Read the zip file" />
     <MESSAGE value="copying the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="copying the file" />
+    <MESSAGE value="Rename file" />
+    <MESSAGE value="Removing file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/privatemethod.py" />
@@ -388,13 +411,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deletingfile.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/renamingfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deletingfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makingdirectory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="101" selection-start-line="18" selection-start-column="101" selection-end-line="18" selection-end-column="101" />
         </state>
       </provider>
     </entry>
