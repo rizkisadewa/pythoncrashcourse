@@ -7,3 +7,4 @@ The notes for the Python Crash Course, all the basic in here.
 3. String Manipulation
 4. Date, Time Manipulation
 5. Create Function 
+6. IO, File and Directory
