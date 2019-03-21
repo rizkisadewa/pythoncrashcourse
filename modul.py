@@ -1,12 +1,12 @@
-# declaration variable
+# declaration of variable
 myvar = 13
 
-# function
+# declartion of function
 def myfunc():
-    print("Fungsi myfunc() called ...")
+    print("This is myfunc(), is being called ...")
 
-# class
+# class declaration
 class A:
     def __init__(self): pass
     def mymethod(self):
-        print('Method A.mymethod() called ...')
+        print("This is a mymethod from A class, is being called ...")

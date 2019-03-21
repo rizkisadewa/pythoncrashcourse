@@ -1,23 +1,17 @@
-# importing all member of modul.py
-from modul import *
+# importing myvar variable and calss A in modul.py
+from modul import myvar, A
 
 def main():
     # showing variable in modul
     print(myvar)
 
-    # calling function in modul
-    myfunc()
+    # myfunc() # will not recognised as we do not import the component in modul.py
 
     # make an object from class A
-    # inside modul.py
     a = A()
 
-    # calling mymethod() through object a
+    # calling method
     a.mymethod()
 
 if __name__ == '__main__':
     main()
-
-'''
-* means all of component imported in this file
-'''

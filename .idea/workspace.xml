@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bangun_dua_dimensi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/importing module/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/importingallmodule/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/importingallmodule/modul.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myclasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/importing module/myclasses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bangun_dua_dimensi.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modul.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="187">
+              <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="272">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -85,8 +85,10 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/myclasses.py" />
         <option value="$PROJECT_DIR$/importing module/bangun_dua_dimensi.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/bangun_dua_dimensi.py" />
+        <option value="$PROJECT_DIR$/importingallmodule/main.py" />
+        <option value="$PROJECT_DIR$/modul.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -111,11 +113,6 @@
               <item name="CrashCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="CrashCourse" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CrashCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrashCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="importing module" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -128,6 +125,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\importingallmodule" />
+      <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\module alias" />
       <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse" />
       <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\importing module" />
     </key>
@@ -372,7 +371,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553208619157</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Module Alias">
+      <created>1553209990107</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1553209990107</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Importing all component from the other file">
+      <created>1553210477721</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1553210477721</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -471,8 +484,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add property to access the method" />
-    <MESSAGE value="Add abstract method" />
     <MESSAGE value="comparing an object" />
     <MESSAGE value="Class Object with Arithmetic" />
     <MESSAGE value="Data Static" />
@@ -496,7 +507,9 @@
     <MESSAGE value="Revise README file" />
     <MESSAGE value="Initiation Part 8" />
     <MESSAGE value="Importing module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Importing module" />
+    <MESSAGE value="Module Alias" />
+    <MESSAGE value="Importing all component from the other file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Importing all component from the other file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/privatemethod.py" />
@@ -557,17 +570,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/module alias/bangun_dua_dimensi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module alias/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bangun_dua_dimensi.py">
+    <entry file="file://$PROJECT_DIR$/importingallmodule/modul.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="187">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/importingallmodule/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
