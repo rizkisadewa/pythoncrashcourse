@@ -1,5 +1,6 @@
 # The Program will execute the module in file mymodule.py
-import mymodule as m
+from importanddivide import mymodule as m
+
 
 def main():
     print('Nilai A adalah %d' % m.a)
