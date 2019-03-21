@@ -1,5 +1,5 @@
 # importing myvar variable and calss A in modul.py
-from modul import myvar, A
+from importingcertainmodule.modul import myvar, A
 
 def main():
     # showing variable in modul
@@ -15,3 +15,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+'''
+Myfunc() will not recognized as we do not import the function in modul.py, we only import myvar and A class
+'''
