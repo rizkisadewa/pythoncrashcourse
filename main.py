@@ -1,18 +1,17 @@
-import os # for chdir function
-os.chdir("D:\Rizky's File\Tutorial\Coding\Python\CrashCourse")
+# importing module1.py and module2.py inside of package1
+import package1.module1, package1.module2
 
-# importing module.py
-import module
+def main():
+    a = package1.module1.additional(4, 3)
+    b = package1.module1.reduction(4, 3)
+    c = package1.module2.multiple(4, 3)
+    d = package1.module2.fraction(4, 3)
 
-# call function suhuruangan
-print(module.suhuruangan())
+    # showing the value from the variables above
+    print(a)
+    print(b)
+    print(c)
+    print(d)
 
-'''
-in IDLE , the above code will not update if there is amendment in module.py due to the IDLE will not read from line 1.
-therefore we need to do syntax below
-
-import importlib
-importlib.reload(module)
-
-Therefore any change in module.py, the IDLE will recognize
-'''
+if __name__ == '__main__':
+    main()
