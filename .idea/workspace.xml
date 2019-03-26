@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/packagesquance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packagesquance/bangun2d/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packagesquance/bangun2d/lingkaran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packagesquance/bangun2d/persegipanjang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packagesquance/bangun3d/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packagesquance/bangun3d/balok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packagesquance/bangun3d/tabung.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packagesquance/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packaging/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/importingvariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packaging/package1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packaging/package1/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packaging/package1/module2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +21,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/importingvariable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -45,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/packagesquance/main.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
                 <element signature="e#20#65#0" expanded="true" />
               </folding>
@@ -78,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/comparingobject.py" />
         <option value="$PROJECT_DIR$/classobjectarithmetic.py" />
         <option value="$PROJECT_DIR$/datastatic.py" />
         <option value="$PROJECT_DIR$/methodstatic.py" />
@@ -103,7 +107,6 @@
         <option value="$PROJECT_DIR$/readingcsv.py" />
         <option value="$PROJECT_DIR$/makingjson.py" />
         <option value="$PROJECT_DIR$/readingjson.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/myclasses.py" />
         <option value="$PROJECT_DIR$/importing module/bangun_dua_dimensi.py" />
         <option value="$PROJECT_DIR$/bangun_dua_dimensi.py" />
@@ -120,7 +123,6 @@
         <option value="$PROJECT_DIR$/package1/module1.py" />
         <option value="$PROJECT_DIR$/package1/module2.py" />
         <option value="$PROJECT_DIR$/package1/__init__.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/packagesquance/bangun2d/persegipanjang.py" />
         <option value="$PROJECT_DIR$/packagesquance/bangun2d/lingkaran.py" />
         <option value="$PROJECT_DIR$/packagesquance/bangun2d/__init__.py" />
@@ -129,6 +131,9 @@
         <option value="$PROJECT_DIR$/packagesquance/bangun3d/__init__.py" />
         <option value="$PROJECT_DIR$/packagesquance/__init__.py" />
         <option value="$PROJECT_DIR$/packagesquance/main.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/importingvariable.py" />
       </list>
     </option>
   </component>
@@ -145,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,21 +157,11 @@
               <item name="CrashCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="CrashCourse" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CrashCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrashCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="packagesquance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CrashCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrashCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="packagesquance" type="462c0819:PsiDirectoryNode" />
-              <item name="bangun2d" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,11 +170,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse" />
       <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\reloadmodule" />
       <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\importanddivide" />
       <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\importingcertainmodule" />
       <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\importingallmodule" />
-      <recent name="D:\Rizky's File\Tutorial\Coding\Python\CrashCourse\module alias" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -458,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553296698681</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Packing hirarki">
+      <created>1553382143075</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1553382143075</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -474,7 +475,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -485,7 +486,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -557,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Checking file and directory existance" />
     <MESSAGE value="Showing The File and Directory" />
     <MESSAGE value="Showing certain extension file" />
     <MESSAGE value="Obtain File Size" />
@@ -582,7 +582,8 @@
     <MESSAGE value="Importing a few of component from the other file" />
     <MESSAGE value="cleaning the folder" />
     <MESSAGE value="Using reload in importlib" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using reload in importlib" />
+    <MESSAGE value="Packing hirarki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Packing hirarki" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/showingcertainfile.py" />
@@ -718,20 +719,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reloadmodule/main.py" />
     <entry file="file://$PROJECT_DIR$/reloadmodule/module.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package1/module1.py" />
     <entry file="file://$PROJECT_DIR$/package1/module2.py" />
     <entry file="file://$PROJECT_DIR$/package1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/main.py" />
     <entry file="file://$PROJECT_DIR$/packagesquance/bangun2d/persegipanjang.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -770,16 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packagesquance/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packagesquance/bangun2d/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -790,13 +770,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packagesquance/main.py">
+    <entry file="file://$PROJECT_DIR$/packagesquance/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
             <element signature="e#20#65#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/importingvariable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
         </state>
       </provider>
     </entry>
