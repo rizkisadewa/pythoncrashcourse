@@ -8,3 +8,4 @@ The notes for the Python Crash Course, all the basic in here.
 4. Date, Time Manipulation
 5. Create Function 
 6. IO, File and Directory
+7. Module

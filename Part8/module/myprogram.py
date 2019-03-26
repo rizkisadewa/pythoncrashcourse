@@ -1,5 +1,5 @@
 # The Program will execute the module in file mymodule.py
-from importanddivide import mymodule as m
+import mymodule as m
 
 
 def main():
