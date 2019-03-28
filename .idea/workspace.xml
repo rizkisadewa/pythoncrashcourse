@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/package1/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package1/module1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package1/module2.py" afterDir="false" />
@@ -13,6 +14,10 @@
       <change afterPath="$PROJECT_DIR$/Part8/module/mymodule.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Part8/module/myprogram.py" afterDir="false" />
 >>>>>>> Part9
+=======
+      <change afterPath="$PROJECT_DIR$/bubblesort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Part9
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <leaf>
 =======
@@ -39,6 +45,23 @@
 >>>>>>> Part9
               </first_editor>
               <second_editor />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sequentialsearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binarysearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+>>>>>>> Part9
             </state>
           </provider>
         </entry>
@@ -81,10 +104,15 @@
               <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
 =======
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sequentialsearch.py">
+        <entry file="file://$PROJECT_DIR$/bubblesort.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="243">
               <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+>>>>>>> Part9
+=======
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
 >>>>>>> Part9
             </state>
           </provider>
@@ -111,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/methodstatic.py" />
-        <option value="$PROJECT_DIR$/checkingfileanddir.py" />
         <option value="$PROJECT_DIR$/showingsubdirectory.py" />
         <option value="$PROJECT_DIR$/showingcertainfile.py" />
         <option value="$PROJECT_DIR$/obtainfilesize.py" />
@@ -165,6 +191,11 @@
         <option value="$PROJECT_DIR$/importingvariable.py" />
         <option value="$PROJECT_DIR$/Part8/module/myprogram.py" />
         <option value="$PROJECT_DIR$/sequentialsearch.py" />
+<<<<<<< HEAD
+>>>>>>> Part9
+=======
+        <option value="$PROJECT_DIR$/binarysearch.py" />
+        <option value="$PROJECT_DIR$/bubblesort.py" />
 >>>>>>> Part9
       </list>
     </option>
@@ -182,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,16 +221,10 @@
               <item name="CrashCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="CrashCourse" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CrashCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrashCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Part8" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -547,9 +573,13 @@
     <editor active="true" />
     <layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
 =======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
+>>>>>>> Part9
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
 >>>>>>> Part9
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -639,6 +669,7 @@
   </component>
   <component name="VcsManagerConfiguration">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <MESSAGE value="Checking file and directory existance" />
     <MESSAGE value="Showing The File and Directory" />
     <MESSAGE value="Showing certain extension file" />
@@ -646,6 +677,8 @@
 =======
 >>>>>>> Part9
     <MESSAGE value="Zipping File" />
+=======
+>>>>>>> Part9
     <MESSAGE value="Read the zip file" />
     <MESSAGE value="copying the file" />
     <MESSAGE value="Rename file" />
@@ -692,13 +725,17 @@
     <MESSAGE value="Importing Variable" />
     <MESSAGE value="Tidy up Part 8 folder" />
     <MESSAGE value="sequential search" />
-    <option name="LAST_COMMIT_MESSAGE" value="sequential search" />
+    <MESSAGE value="Binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary search" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 >>>>>>> Part9
     <entry file="file://$PROJECT_DIR$/readfileinzip.py" />
     <entry file="file://$PROJECT_DIR$/copyingfile.py" />
     <entry file="file://$PROJECT_DIR$/movingfile.py" />
+=======
+>>>>>>> Part9
     <entry file="file://$PROJECT_DIR$/checkingfileanddir.py" />
     <entry file="file://$PROJECT_DIR$/renamingfile.py" />
     <entry file="file://$PROJECT_DIR$/deletingfile.py" />
@@ -1000,10 +1037,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sequentialsearch.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="243">
           <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+>>>>>>> Part9
+=======
+        <state relative-caret-position="195">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binarysearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubblesort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
 >>>>>>> Part9
         </state>
       </provider>
