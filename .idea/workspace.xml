@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222146d3-33a3-4497-a9f8-01a2bbbf84d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bubblesort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part8/module/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part8/module/mymodule.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binarysearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="345">
+              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bubblesort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -53,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/checkingfileanddir.py" />
         <option value="$PROJECT_DIR$/showingsubdirectory.py" />
         <option value="$PROJECT_DIR$/showingcertainfile.py" />
         <option value="$PROJECT_DIR$/obtainfilesize.py" />
@@ -104,6 +111,7 @@
         <option value="$PROJECT_DIR$/Part8/module/myprogram.py" />
         <option value="$PROJECT_DIR$/sequentialsearch.py" />
         <option value="$PROJECT_DIR$/binarysearch.py" />
+        <option value="$PROJECT_DIR$/bubblesort.py" />
       </list>
     </option>
   </component>
@@ -112,7 +120,9 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -548,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zipping File" />
     <MESSAGE value="Read the zip file" />
     <MESSAGE value="copying the file" />
     <MESSAGE value="Rename file" />
@@ -573,10 +582,10 @@
     <MESSAGE value="Importing Variable" />
     <MESSAGE value="Tidy up Part 8 folder" />
     <MESSAGE value="sequential search" />
-    <option name="LAST_COMMIT_MESSAGE" value="sequential search" />
+    <MESSAGE value="Binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary search" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/movingfile.py" />
     <entry file="file://$PROJECT_DIR$/checkingfileanddir.py" />
     <entry file="file://$PROJECT_DIR$/renamingfile.py" />
     <entry file="file://$PROJECT_DIR$/deletingfile.py" />
@@ -818,8 +827,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binarysearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="345">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubblesort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
