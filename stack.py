@@ -53,3 +53,7 @@ print(s)
 
 # get the information of the total element
 print(len(s))
+
+'''
+Stack has the method like LIFO (Last In First Out)
+'''
