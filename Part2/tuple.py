@@ -4,9 +4,8 @@
 t = (100, 200, 300, 400, 500)
 
 # Accessing the tuple
-<<<<<<< HEAD
+
 print(t[1])
-=======
 print(t[0])
 print(t[1])
 print(t[2])
@@ -36,4 +35,3 @@ t2 = (10,20,10,30,10,40,20)
 
 print(t2.count(10))
 print(t2.count(20))
->>>>>>> Part2
